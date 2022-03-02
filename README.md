@@ -12,3 +12,9 @@ such as:
   - Airbnb and so on. 
 Here we solve selected examples out of houndrds of
  data science problems. 
+ 
+ # Important notice
+ 
+ - Download the data.zip file and the code.
+ - Put in the same forlder and 
+ - Adjust the directory on the code file to access the data.
