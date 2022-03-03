@@ -2,7 +2,7 @@
 
 Strata scratch is an online platform for Data science
 practice. It includes from easy to advanced data science 
-problems. The exercise covers different tech campanile's 
+problems. The exercise covers different tech campaninies 
 such as: 
   - google, 
   - Facebook/meta, 
@@ -10,11 +10,10 @@ such as:
   - Dropbox, 
   - Uber,
   - Airbnb and so on. 
-Here we solve selected examples out of houndrds of
- data science problems. 
+Here we solve selected exercises out of houndrds of data science problems. 
  
  # Important notice
  
  - Download the data.zip file and the code.
- - Put in the same forlder and 
- - Adjust the directory on the code file to access the data.
+ - Extract the zip file and put in the same forlder and 
+ - Adjust the working directory on the code file to access the data.
