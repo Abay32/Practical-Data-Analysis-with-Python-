@@ -17,3 +17,4 @@ Here we solve selected exercises out of houndrds of data science problems.
  - Download the data.zip file and the code.
  - Extract the zip file and put in the same forlder and 
  - Adjust the working directory on the code file to access the data.
+ - The "getdata_fromhtml.py" method converts an .html file/table to .csv file/table
